@@ -1,2 +1,3 @@
-# HELOC-Classification-and-Adversarial-Attack
-This repository aims for classifying the HELOC dataset using a Random Forest model and a Deep Neural Network (DNN). It also implements the Papernot adversarial attack on the Random Forest model to generate adversarial examples and evaluates its accuracy against these examples. 
+This repository contains the classification of heloc dataset, alongside an application of the Papernot adversarial attack on a Random Forest model. The project is structured into two main parts:
+Part 1: HELOC Dataset Classification using a Random Forest model then with a simple DNN classifier
+Part 2: Adversarial Attack Implementation
